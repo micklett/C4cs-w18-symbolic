@@ -1,0 +1,16 @@
+[user]
+	name = Michael Klettner
+	email = micklett@umich.edu
+
+[color]
+	ui = auto
+
+[color "branch"]
+	current = green
+	local = red
+	remote = yellow
+
+[github]
+	user = micklett
+	token = token
+
